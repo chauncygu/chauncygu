@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=chauncygu)
 
-**chauncygu/chauncygu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on safe reinforcement learning theory and its applications in robotics.
+
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
+<!-- **chauncygu/chauncygu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 
@@ -22,3 +29,5 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 -->
 ![visitors](https://komarev.com/ghpvc/?username=chauncygu&color=brightgreen) 
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=chauncygu) -->
