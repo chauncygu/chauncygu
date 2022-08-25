@@ -8,4 +8,5 @@
 
 
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=chauncygu) -->
+<!-- 
+![visitors](https://komarev.com/ghpvc/?username=chauncygu&color=brightgreen)  -->
