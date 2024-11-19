@@ -1,5 +1,11 @@
-### Hi there 👋
+<!-- ### Hi there 👋-->
 
+<h1 align="center">Hi 👋, there</h1>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/chauncygu/count.svg"/>
+ since 18.11.2024
+</p>
 
 
 - 🔭 I’m currently working on safe reinforcement learning theory and its applications in robotics.
