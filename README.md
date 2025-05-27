@@ -9,9 +9,9 @@
 
 ## News
 
-* 🔥🔥🔥 **\[May 19, 2025]** We released **OpenRBench**, a benchmark for evaluating massive multimodal understanding and reasoning in open space. Code, dataset, and leaderboard are available at: [https://open-space-reasoning.github.io](https://open-space-reasoning.github.io)
+* 🔥🔥🔥 **\[May 19, 2025]** We released **[OpenRBench](https://open-space-reasoning.github.io)**, a benchmark for evaluating massive multimodal understanding and reasoning in open space. Code, dataset, and leaderboard are available at: [https://open-space-reasoning.github.io](https://open-space-reasoning.github.io)
 
-* 🔥🔥🔥 **\[May 07, 2025]** We released **RLBenchNet**, a systematic benchmarking suite for evaluating neural network architectures in reinforcement learning. Code is available at: [https://github.com/SafeRL-Lab/BenchNetRL](https://github.com/SafeRL-Lab/BenchNetRL)
+* 🔥🔥🔥 **\[May 07, 2025]** We released **[RLBenchNet](https://github.com/SafeRL-Lab/BenchNetRL)**, a systematic benchmarking suite for evaluating neural network architectures in reinforcement learning. Code is available at: [https://github.com/SafeRL-Lab/BenchNetRL](https://github.com/SafeRL-Lab/BenchNetRL)
 
 
 ## What I Do
