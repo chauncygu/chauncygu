@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, there</h1>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://profile-counter.glitch.me/chauncygu/count.svg"/>
  since 18.11.2024
-</p>
+</p>-->
 
 ## Recent News
 
